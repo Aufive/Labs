@@ -1,0 +1,3 @@
+alfa = 'АБВГДЕЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЄЮЯАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЄЮЯABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+kliucz = 1
+result = ''
